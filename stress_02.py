@@ -1,5 +1,5 @@
 #Nuclear physics is the brutal branch of the physics
-#as well as the Science
+#as well as For the Science
 #But we know very well that
 print("The whole galaxies are move around the application of physics")
 #Physicist125, snapchat id
